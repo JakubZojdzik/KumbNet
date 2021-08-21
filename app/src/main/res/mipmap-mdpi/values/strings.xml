@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">first_app</string>
+    <string name="back"><![CDATA[<-]]></string>
+    <string name="forward"><![CDATA[->]]></string>
+    <string name="home">Home</string>
+    <string name="go">Go!</string>
+    <string name="prompt">Type your url address</string>
+</resources>

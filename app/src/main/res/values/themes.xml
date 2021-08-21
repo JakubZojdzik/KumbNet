@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="DefaultTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/light_orange</item>
+        <item name="colorPrimaryVariant">@color/yellow</item>
+        <item name="colorPrimaryDark">@color/light_orange</item>
+        <item name="colorPrimarySurface">@color/light_orange</item>
+        <item name="colorSurface">@color/white</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorOnSurface">@color/grafit</item>
+        <item name="colorSecondary">@color/light_orange</item>
+        <item name="colorSecondaryVariant">@color/dark_orange</item>
+        <item name="colorAccent">@color/dark_orange</item>
+        <item name="colorButtonNormal">@color/gray</item>
+        <item name="background">@mipmap/logo_bg</item>
+        <item name="srcCompat">@mipmap/logo_mini</item>
+    </style>
+
+    <style name="DarkTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/norm</item>
+        <item name="colorPrimaryVariant">@color/action_bar</item>
+        <item name="colorPrimaryDark">@color/darker</item>
+        <item name="colorPrimarySurface">@color/almost_light</item>
+        <item name="colorSurface">@color/action_bar</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorOnSurface">@color/light_white</item>
+        <item name="colorSecondary">@color/almost_light</item>
+        <item name="colorSecondaryVariant">@color/darkest</item>
+        <item name="colorAccent">@color/almost_light</item>
+        <item name="colorButtonNormal">@color/almost_light</item>
+        <item name="background">@mipmap/logo_bg_light</item>
+        <item name="srcCompat">@mipmap/logo_mini_grayscale_dark</item>
+    </style>
+
+    <style name="LightTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/norm_l</item>
+        <item name="colorPrimaryVariant">@color/med_light</item>
+        <item name="colorPrimaryDark">@color/lighter</item>
+        <item name="colorPrimarySurface">@color/almost_dark</item>
+        <item name="colorSurface">@color/med_light</item>
+        <item name="colorOnPrimary">@color/grafit</item>
+        <item name="colorOnSurface">@color/grafit</item>
+        <item name="colorSecondary">@color/almost_dark</item>
+        <item name="colorSecondaryVariant">@color/lightest</item>
+        <item name="colorAccent">@color/almost_dark</item>
+        <item name="colorButtonNormal">@color/almost_dark</item>
+        <item name="background">@mipmap/logo_bg</item>
+        <item name="srcCompat">@mipmap/logo_mini_grayscale</item>
+    </style>
+</resources>
